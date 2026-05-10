@@ -26,6 +26,8 @@ Built as a replacement for the original Large Address Aware tool, which may not 
 
 ### Example with Dungeon Siege (32-bit Game)
 
+You will need to rename the Large.Address.Aware.exe to Large Address Aware.exe in order for the below command to run properly.
+
 ```powershell
 & ".\Large Address Aware.exe" "C:\Program Files (x86)\Steam\steamapps\common\Dungeon Siege 1\DungeonSiege.exe"
 ```
